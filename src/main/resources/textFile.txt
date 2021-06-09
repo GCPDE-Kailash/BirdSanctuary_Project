@@ -1,0 +1,2 @@
+Bird{id='penguin', color='black-white'}
+Bird{id='parrot', color='green'}
